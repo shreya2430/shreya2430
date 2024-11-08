@@ -24,3 +24,7 @@ Skills Highlights:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+📝 My Blog Posts in Medium
+- [Welcome to the Ocean of Unity](https://medium.com/@shreyawanisha1221/welcome-to-the-ocean-of-unity-ff351bfd928f)
+- [Understanding Design Patterns in Java: Real-World Examples](https://medium.com/@shreyawanisha1221/understanding-design-patterns-in-java-real-world-examples-0cb60c7e9a7d)
