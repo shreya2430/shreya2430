@@ -6,12 +6,12 @@
  Passionate Full Stack Developer | Java & SpringBoot Enthusiast
 
 I'm Shreya Wanisha, a seasoned Full Stack Developer with almost 3 years of experience and a rich background in delivering impactful solutions.
-My journey has taken me through the dynamic landscapes of Thoughtworks and MAQ Software, where I've honed my skills in crafting robust backend applications and driving end-to-end RESTful API solutions. 
+My journey has taken me through the dynamic landscapes of Labcorp, Thoughtworks and MAQ Software, where I've honed my skills in crafting robust backend applications and driving end-to-end RESTful API solutions. 
 With expertise in Azure cloud, Agile practices, CI/CD pipelines, and automation testing, I consistently strive to deliver high-quality, scalable solutions.
 
 Skills Highlights:
 - Java | C++ | SpringBoot
-- Azure Cloud Technologies | Docker
+- AWS | Azure Cloud Technologies | Docker & Kubernetes
 - Clean Code | Automation Testing | CI/CD Pipelines
 - Responsive Web Development | REST APIs | ORMs (Entity Framework Core)
 
